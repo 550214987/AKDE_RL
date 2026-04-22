@@ -1,21 +1,19 @@
-MIT License
-
-Copyright (c) 2026 550214987
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+AKDE-RL Model License Agreement
+Copyright (c) 2026 Tunyang Geng and Xiaoping Li, School of Geography and Tourism, Shaanxi Normal University. All rights reserved.
+1. Permission for Use
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software strictly for non-commercial, academic, and research purposes only. This includes the rights to use, copy, modify, and merge the Software for educational and scientific activities.
+2. Restrictions on Commercial Use
+The Software is NOT allowed to be used for any commercial purpose. This restriction includes, but is not limited to:
+Using the Software for commercial promotion.
+Incorporating the Software into commercial products or services.
+Any activities intended for commercial gain or monetary compensation.
+Any use of the Software for commercial purposes requires prior written permission from the copyright holders.
+3. Citation and Attribution
+Users of this Software must acknowledge the creators in any publication or presentation that utilizes this model. The citation requirement depends on the publication status of the creators' paper:
+Before the publication of the creators' paper:
+Users must cite this GitHub repository and explicitly mention the model builders: Prof. Xiaoping Li and Dr. Tunyang Geng from the School of Geography and Tourism, Shaanxi Normal University.
+After the publication of the creators' paper:
+Users must cite the authors' published paper and mention the model builders: Prof. Xiaoping Li and Dr. Tunyang Geng from the School of Geography and Tourism, Shaanxi Normal University.
+4. Ownership and Disclaimer
+The explanation, ownership, and intellectual property rights of this model and GitHub project belong to Dr. Tunyang Geng and Professor Xiaoping Li from the School of Geography and Tourism, Shaanxi Normal University.
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
