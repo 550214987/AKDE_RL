@@ -1,10 +1,8 @@
-# AKDE_RL
-
 # AKDE-RL Model
 
-> ** Affiliation:** Department of Environment Sciences, School of Geography and Tourism, Shaanxi Normal University.
+> **📍 Affiliation:** Department of Environment Sciences, School of Geography and Tourism, Shaanxi Normal University.
 
-##  Announcement
+## 📢 Announcement
 
 **AKDE-RL model** was created by **Dr. Tunyang Geng** and **Prof. Xiaoping Li**, Department of Environment Sciences, School of Geography and Tourism, Shaanxi Normal University.
 
@@ -18,26 +16,26 @@
 
 ---
 
-## Environment & Dependencies
+## 🛠️ Environment & Dependencies
 
 This project is built using Python. The recommended environment and core dependencies are listed below.
 
 ### Python Version
-- **Python**: 3.11.5
+- **Python**: `3.11.5`
 
 ### Core Libraries
-| Library | Version
+| Library | Version | Description |
 | :--- | :--- | :--- |
-| **PyTorch** | 1.13.1
-| **NumPy** | 1.21.2
-| **Pandas** | 1.1.3
-| **Scikit-learn** | 1.0.2
-| **SciPy** | 1.7.3
-| **Matplotlib** | 3.1.1
+| **PyTorch** | 1.13.1 | Deep Learning Framework |
+| **NumPy** | 1.21.2 | Scientific Computing |
+| **Pandas** | 1.1.3 | Data Analysis |
+| **Scikit-learn** | 1.0.2 | Machine Learning Algorithms |
+| **SciPy** | 1.7.3 | Scientific Computation |
+| **Matplotlib** | 3.1.1 | Data Visualization |
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### 1. Installation
 You can install the required dependencies via pip:
